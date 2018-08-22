@@ -13,7 +13,6 @@
   "devDependencies": {
     "gulp": "^3.9.1",
     "gulp-livereload": "^3.8.1",
-    "gulp-watch": "^4.3.11",
-    "serve": "^6.4.1"
+    "gulp-watch": "^4.3.11"  
   }
 }
